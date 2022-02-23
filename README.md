@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @roonaar
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I like coffee
+- 🌱 I’m currently learning C++, C#, HTML, CSS and JS
 
 <!---
 roonaar/roonaar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
