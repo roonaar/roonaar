@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @roonaar
-- 👀 I like coffee
+- 👀 I'm a coffee to code converter!
 - 🌱 I’m currently learning C, C++, C#, HTML, CSS and JS
 
 <!---
